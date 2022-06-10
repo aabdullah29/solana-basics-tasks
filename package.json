@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.37.1"
+  }
+}
